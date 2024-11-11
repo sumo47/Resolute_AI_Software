@@ -1,0 +1,7 @@
+flask
+pymongo
+marshmallow
+werkzeug
+python-dotenv
+pyjwt
+flask_mongoengine
